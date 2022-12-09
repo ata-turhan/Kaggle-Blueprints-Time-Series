@@ -1,3 +1,9 @@
 https://towardsdatascience.com/never-worry-about-optimization-process-gbs-of-tabular-data-25x-faster-with-no-code-pandas-e85ede4c37d5
 
 https://towardsdatascience.com/seven-killer-memory-optimization-techniques-every-pandas-user-should-know-64707348ab20
+
+https://pub.towardsai.net/building-complex-deep-learning-models-using-keras-functional-api-38090f4769a4
+
+https://towardsdatascience.com/scaling-pycaret-with-spark-or-dask-through-fugue-60bdc3ce133f
+
+https://towardsdatascience.com/pycaret-review-65cbe2f663bb
